@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2025-07-25 15:30">
+  <shop>
+    <name>Дом Волгоград</name>
+    <company>Дом Волгоград</company>
+    <url>https://dom-volgograd.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Статьи</category>
+    </categories>
+    <offers>
+      <offer id="1" type="vendor.model" available="true">
+        <url>https://dom-volgograd.ru/articles/tpost/1zm6ppdyo1-kak-vibrat-proekt-doma-5-reshenii-dlya-s</url>
+        <price>1</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Дом Волгоград</vendor>
+        <model>Как выбрать проект дома: 5 решений</model>
+        <description>Пять подходов к выбору проекта загородного дома — от типовых до индивидуальных.</description>
+      </offer>
+      <offer id="2" type="vendor.model" available="true">
+        <url>https://dom-volgograd.ru/articles/tpost/4bk384clk1-novie-tehnologii-v-stroitelstve-domov-20</url>
+        <price>1</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Дом Волгоград</vendor>
+        <model>Новые технологии в строительстве домов 2025</model>
+        <description>Что изменилось в подходах к строительству за последний год.</description>
+      </offer>
+      <offer id="3" type="vendor.model" available="true">
+        <url>https://dom-volgograd.ru/articles/tpost/zvl5va2hn1-stroit-dom-ili-snimat-kvartiru-chto-vigo</url>
+        <price>1</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Дом Волгоград</vendor>
+        <model>Строить дом или снимать квартиру: что выгоднее?</model>
+        <description>Финансовый и практический разбор двух популярных вариантов жилья.</description>
+      </offer>
+      <offer id="4" type="vendor.model" available="true">
+        <url>https://dom-volgograd.ru/articles/tpost/hpkdesed81-sovremennie-trendi-v-planirovke-5-reshen</url>
+        <price>1</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Дом Волгоград</vendor>
+        <model>Современные тренды в планировке</model>
+        <description>Что сейчас модно и удобно в планировке загородных домов.</description>
+      </offer>
+      <offer id="5" type="vendor.model" available="true">
+        <url>https://dom-volgograd.ru/articles/tpost/ec7klsang1-10-oshibok-pri-stroitelstve-doma-kotorie</url>
+        <price>1</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Дом Волгоград</vendor>
+        <model>10 ошибок при строительстве дома</model>
+        <description>Что нельзя делать при строительстве дома — опыт реальных владельцев.</description>
+      </offer>
+      <offer id="6" type="vendor.model" available="true">
+        <url>https://dom-volgograd.ru/articles/tpost/ygmalsgt61-s-chego-nachat-stroitelstvo-zagorodnogo</url>
+        <price>1</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Дом Волгоград</vendor>
+        <model>С чего начать строительство загородного дома</model>
+        <description>Пошаговый план первых шагов для строительства собственного дома.</description>
+      </offer>
+      <offer id="7" type="vendor.model" available="true">
+        <url>https://dom-volgograd.ru/articles/tpost/sdh3r0xai1-kak-pravilno-vibrat-uchastok-pod-stroite</url>
+        <price>1</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Дом Волгоград</vendor>
+        <model>Как правильно выбрать участок под строительство</model>
+        <description>На что обратить внимание при выборе участка под дом.</description>
+      </offer>
+      <offer id="8" type="vendor.model" available="true">
+        <url>https://dom-volgograd.ru/articles/tpost/nxmvdo07e1-pochemu-vsyo-bolshe-lyudei-vibirayut-zag</url>
+        <price>1</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Дом Волгоград</vendor>
+        <model>Почему всё больше людей выбирают загород</model>
+        <description>Психологические, экономические и экологические причины.</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
